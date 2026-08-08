@@ -1,10 +1,11 @@
 # BirthStats — Provisional Natality Data Dashboard
+**Academic Lab Project | Purdue University**
 
 ## Overview
 
-This project is an interactive Streamlit dashboard developed to explore provisional U.S. natality data from the CDC.
+This academic lab project was developed at Purdue University using Streamlit to explore provisional U.S. natality data from the CDC.
 
-The dashboard allows users to analyze birth statistics by state and gender through interactive visualizations and filters. The project demonstrates how public health data can be transformed into an accessible analytical tool for exploring geographic and demographic patterns.
+The dashboard allows users to analyze birth statistics by state and gender through interactive visualizations and filters. The project demonstrates the use of Python-based dashboard development to transform public health data into an accessible analytical tool for exploring geographic and demographic patterns.
 
 ## Features
 
